@@ -14,8 +14,7 @@
    <a class="text-white" href="https://www.facebook.com/profile.php?id=100066421973540&amp;mibextid=ZbWKwL"><i class="fa-brands fa-facebook" style="color: #005eff;"></i> Facebook</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/480px-Facebook_Logo_%282019%29.png" jsaction="VQAsE" class="r48jcc pT0Scc iPVvYb" style="max-width: 35px; opacity: 1; transform: none; width: 15px; height: 15px; margin: 0px;" alt="T?p tin:Facebook Logo (2019).png ? Wikipedia ti?ng Vi?t" jsname="kn3ccd" aria-hidden="false">
   </button></div>
   <p> nhắn tin ẩn danh</p>
-  
-<div class="center">
+  <div class="center">
 <button>
- <h1>  <span style="color: red;"></span> <a href="https://ngl.link/huy271">Nh?n tin ?n danh ? ??y</a>
+ <h1>  <span style="color: red;"></span> <a href="https://ngl.link/huy271">Nhanws tin ở đây</a>
 </h1></button></div>
