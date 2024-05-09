@@ -16,5 +16,5 @@
   <p> nhắn tin ẩn danh</p>
   <div class="center">
 <button>
- <h1>  <span style="color: red;"></span> <a href="https://ngl.link/huy2711</a>
+ <h1>  <span style="color: red;"></span> <a href="https://ngl.link/huy2711"</a>
 </h1></button></div>
